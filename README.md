@@ -1,2 +1,2 @@
-# bitirmeProjesi1
-Kırıkkale Üniversitesi, Bilgisayar Mühendisliği, Bitirme Projesi 1 dersi içeriği
+# graduationProject1
+Computer Engineering, Graduation Project 1 Content.
